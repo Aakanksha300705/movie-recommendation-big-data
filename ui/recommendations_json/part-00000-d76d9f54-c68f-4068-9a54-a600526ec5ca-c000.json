@@ -1,0 +1,500 @@
+{"movieId":196965,"userId":31,"predicted_rating":5.949971,"title":"Fate/Stay Night: Unlimited Blade Works (2010)","genres":"Action|Animation|Fantasy"}
+{"movieId":172223,"userId":31,"predicted_rating":5.579233,"title":"School Of Life (2005)","genres":"Children|Comedy|Drama"}
+{"movieId":156771,"userId":31,"predicted_rating":5.469033,"title":"Dangerous Days: Making Blade Runner (2007)","genres":"Documentary"}
+{"movieId":148468,"userId":31,"predicted_rating":5.18309,"title":"The Garden of Sinners - Chapter 2: …and nothing heart. (Murder Speculation Part A) (2007)","genres":"Animation"}
+{"movieId":169816,"userId":31,"predicted_rating":5.1415334,"title":"Day of the Panther (1988)","genres":"Action"}
+{"movieId":147966,"userId":31,"predicted_rating":5.1415334,"title":"Tarzan's Fight for Life (1958)","genres":"Action|Adventure"}
+{"movieId":190447,"userId":31,"predicted_rating":4.696675,"title":"Nodame Cantabile: The Movie I (2009)","genres":"Drama|Romance"}
+{"movieId":153184,"userId":31,"predicted_rating":4.6727047,"title":"Vergeef me","genres":"(no genres listed)"}
+{"movieId":183717,"userId":31,"predicted_rating":4.564991,"title":"Om-Dar-Ba-Dar (1988)","genres":"(no genres listed)"}
+{"movieId":131548,"userId":31,"predicted_rating":4.2705,"title":"Hardbodies (1984)","genres":"Comedy"}
+{"movieId":172223,"userId":34,"predicted_rating":8.76237,"title":"School Of Life (2005)","genres":"Children|Comedy|Drama"}
+{"movieId":156771,"userId":34,"predicted_rating":5.706844,"title":"Dangerous Days: Making Blade Runner (2007)","genres":"Documentary"}
+{"movieId":183717,"userId":34,"predicted_rating":5.5476346,"title":"Om-Dar-Ba-Dar (1988)","genres":"(no genres listed)"}
+{"movieId":112657,"userId":34,"predicted_rating":5.5137744,"title":"Unraveled (2011)","genres":"Documentary"}
+{"movieId":8257,"userId":34,"predicted_rating":5.3918605,"title":"Battleground (1949)","genres":"Action|Drama|War"}
+{"movieId":116586,"userId":34,"predicted_rating":5.343996,"title":"David Spade: Take the Hit (1998)","genres":"Comedy"}
+{"movieId":168314,"userId":34,"predicted_rating":5.276519,"title":"Be My Cat: A Film for Anne (2015)","genres":"Horror|Thriller"}
+{"movieId":125912,"userId":34,"predicted_rating":5.237984,"title":"Not Another Happy Ending (2013)","genres":"Comedy|Drama|Romance"}
+{"movieId":102590,"userId":34,"predicted_rating":5.177616,"title":"Darkon (2006)","genres":"Documentary|Fantasy"}
+{"movieId":190155,"userId":34,"predicted_rating":4.980007,"title":"The Year of Spectacular Men (2018)","genres":"Comedy|Drama"}
+{"movieId":196965,"userId":53,"predicted_rating":11.108345,"title":"Fate/Stay Night: Unlimited Blade Works (2010)","genres":"Action|Animation|Fantasy"}
+{"movieId":172223,"userId":53,"predicted_rating":10.093054,"title":"School Of Life (2005)","genres":"Children|Comedy|Drama"}
+{"movieId":148468,"userId":53,"predicted_rating":9.760752,"title":"The Garden of Sinners - Chapter 2: …and nothing heart. (Murder Speculation Part A) (2007)","genres":"Animation"}
+{"movieId":169816,"userId":53,"predicted_rating":9.151229,"title":"Day of the Panther (1988)","genres":"Action"}
+{"movieId":147966,"userId":53,"predicted_rating":9.151229,"title":"Tarzan's Fight for Life (1958)","genres":"Action|Adventure"}
+{"movieId":183717,"userId":53,"predicted_rating":9.1309,"title":"Om-Dar-Ba-Dar (1988)","genres":"(no genres listed)"}
+{"movieId":156771,"userId":53,"predicted_rating":9.10089,"title":"Dangerous Days: Making Blade Runner (2007)","genres":"Documentary"}
+{"movieId":190447,"userId":53,"predicted_rating":8.436803,"title":"Nodame Cantabile: The Movie I (2009)","genres":"Drama|Romance"}
+{"movieId":153184,"userId":53,"predicted_rating":8.363034,"title":"Vergeef me","genres":"(no genres listed)"}
+{"movieId":131548,"userId":53,"predicted_rating":7.7324867,"title":"Hardbodies (1984)","genres":"Comedy"}
+{"movieId":172223,"userId":65,"predicted_rating":12.4605465,"title":"School Of Life (2005)","genres":"Children|Comedy|Drama"}
+{"movieId":183717,"userId":65,"predicted_rating":10.500549,"title":"Om-Dar-Ba-Dar (1988)","genres":"(no genres listed)"}
+{"movieId":156771,"userId":65,"predicted_rating":9.37723,"title":"Dangerous Days: Making Blade Runner (2007)","genres":"Documentary"}
+{"movieId":196965,"userId":65,"predicted_rating":9.058521,"title":"Fate/Stay Night: Unlimited Blade Works (2010)","genres":"Action|Animation|Fantasy"}
+{"movieId":190447,"userId":65,"predicted_rating":8.580451,"title":"Nodame Cantabile: The Movie I (2009)","genres":"Drama|Romance"}
+{"movieId":181175,"userId":65,"predicted_rating":8.519052,"title":"War Requiem (1989)","genres":"Drama|War"}
+{"movieId":178027,"userId":65,"predicted_rating":8.519052,"title":"People That Are Not Me (2016)","genres":"Drama|Romance"}
+{"movieId":176893,"userId":65,"predicted_rating":8.519052,"title":"Custody (2016)","genres":"Drama"}
+{"movieId":176179,"userId":65,"predicted_rating":8.519052,"title":"Big Men (2014)","genres":"Documentary"}
+{"movieId":173959,"userId":65,"predicted_rating":8.519052,"title":"The Dreamed Ones (2016)","genres":"(no genres listed)"}
+{"movieId":172223,"userId":78,"predicted_rating":9.943289,"title":"School Of Life (2005)","genres":"Children|Comedy|Drama"}
+{"movieId":196965,"userId":78,"predicted_rating":9.683071,"title":"Fate/Stay Night: Unlimited Blade Works (2010)","genres":"Action|Animation|Fantasy"}
+{"movieId":156771,"userId":78,"predicted_rating":9.606321,"title":"Dangerous Days: Making Blade Runner (2007)","genres":"Documentary"}
+{"movieId":190447,"userId":78,"predicted_rating":8.82188,"title":"Nodame Cantabile: The Movie I (2009)","genres":"Drama|Romance"}
+{"movieId":153184,"userId":78,"predicted_rating":8.6075325,"title":"Vergeef me","genres":"(no genres listed)"}
+{"movieId":184129,"userId":78,"predicted_rating":8.568102,"title":"The Living End (1992)","genres":"Drama|Romance"}
+{"movieId":148468,"userId":78,"predicted_rating":8.229492,"title":"The Garden of Sinners - Chapter 2: …and nothing heart. (Murder Speculation Part A) (2007)","genres":"Animation"}
+{"movieId":181175,"userId":78,"predicted_rating":8.2172985,"title":"War Requiem (1989)","genres":"Drama|War"}
+{"movieId":178027,"userId":78,"predicted_rating":8.2172985,"title":"People That Are Not Me (2016)","genres":"Drama|Romance"}
+{"movieId":176893,"userId":78,"predicted_rating":8.2172985,"title":"Custody (2016)","genres":"Drama"}
+{"movieId":184129,"userId":81,"predicted_rating":8.130549,"title":"The Living End (1992)","genres":"Drama|Romance"}
+{"movieId":152491,"userId":81,"predicted_rating":7.0331726,"title":"Passing Glory (1999)","genres":"(no genres listed)"}
+{"movieId":118995,"userId":81,"predicted_rating":6.8233805,"title":"The Two Firefighters (1968)","genres":"Comedy"}
+{"movieId":118536,"userId":81,"predicted_rating":6.8233805,"title":"The Fan, the Referee and the Player (1984)","genres":"Comedy"}
+{"movieId":104013,"userId":81,"predicted_rating":6.8233805,"title":"They Call Him Bulldozer (Lo chiamavano Bulldozer) (1978)","genres":"Action|Comedy"}
+{"movieId":190447,"userId":81,"predicted_rating":6.7914515,"title":"Nodame Cantabile: The Movie I (2009)","genres":"Drama|Romance"}
+{"movieId":131548,"userId":81,"predicted_rating":6.674576,"title":"Hardbodies (1984)","genres":"Comedy"}
+{"movieId":169124,"userId":81,"predicted_rating":6.535715,"title":"Coquille (1999)","genres":"(no genres listed)"}
+{"movieId":117456,"userId":81,"predicted_rating":6.5242567,"title":"Beyond the Lights (2014)","genres":"Drama"}
+{"movieId":139978,"userId":81,"predicted_rating":6.4844995,"title":"Fantozzi alla riscossa (1990)","genres":"(no genres listed)"}
+{"movieId":196965,"userId":85,"predicted_rating":7.90576,"title":"Fate/Stay Night: Unlimited Blade Works (2010)","genres":"Action|Animation|Fantasy"}
+{"movieId":183717,"userId":85,"predicted_rating":7.4950376,"title":"Om-Dar-Ba-Dar (1988)","genres":"(no genres listed)"}
+{"movieId":172223,"userId":85,"predicted_rating":6.9665623,"title":"School Of Life (2005)","genres":"Children|Comedy|Drama"}
+{"movieId":148468,"userId":85,"predicted_rating":6.962571,"title":"The Garden of Sinners - Chapter 2: …and nothing heart. (Murder Speculation Part A) (2007)","genres":"Animation"}
+{"movieId":156771,"userId":85,"predicted_rating":6.718276,"title":"Dangerous Days: Making Blade Runner (2007)","genres":"Documentary"}
+{"movieId":112657,"userId":85,"predicted_rating":5.5789886,"title":"Unraveled (2011)","genres":"Documentary"}
+{"movieId":193918,"userId":85,"predicted_rating":5.308045,"title":"Smoke 'Em If You Got 'Em (1988)","genres":"Comedy"}
+{"movieId":139036,"userId":85,"predicted_rating":5.308045,"title":"World Gone Wild (1988)","genres":"Action|Sci-Fi"}
+{"movieId":190447,"userId":85,"predicted_rating":5.293975,"title":"Nodame Cantabile: The Movie I (2009)","genres":"Drama|Romance"}
+{"movieId":131548,"userId":85,"predicted_rating":5.2610598,"title":"Hardbodies (1984)","genres":"Comedy"}
+{"movieId":172223,"userId":101,"predicted_rating":7.3201804,"title":"School Of Life (2005)","genres":"Children|Comedy|Drama"}
+{"movieId":156771,"userId":101,"predicted_rating":7.1331244,"title":"Dangerous Days: Making Blade Runner (2007)","genres":"Documentary"}
+{"movieId":112657,"userId":101,"predicted_rating":6.741479,"title":"Unraveled (2011)","genres":"Documentary"}
+{"movieId":196965,"userId":101,"predicted_rating":6.5761023,"title":"Fate/Stay Night: Unlimited Blade Works (2010)","genres":"Action|Animation|Fantasy"}
+{"movieId":169816,"userId":101,"predicted_rating":6.568485,"title":"Day of the Panther (1988)","genres":"Action"}
+{"movieId":147966,"userId":101,"predicted_rating":6.568485,"title":"Tarzan's Fight for Life (1958)","genres":"Action|Adventure"}
+{"movieId":183717,"userId":101,"predicted_rating":5.7185535,"title":"Om-Dar-Ba-Dar (1988)","genres":"(no genres listed)"}
+{"movieId":153184,"userId":101,"predicted_rating":5.71155,"title":"Vergeef me","genres":"(no genres listed)"}
+{"movieId":159117,"userId":101,"predicted_rating":5.6316442,"title":"Ken (1964)","genres":"(no genres listed)"}
+{"movieId":148468,"userId":101,"predicted_rating":5.5051546,"title":"The Garden of Sinners - Chapter 2: …and nothing heart. (Murder Speculation Part A) (2007)","genres":"Animation"}
+{"movieId":172223,"userId":108,"predicted_rating":7.483049,"title":"School Of Life (2005)","genres":"Children|Comedy|Drama"}
+{"movieId":183717,"userId":108,"predicted_rating":6.3168354,"title":"Om-Dar-Ba-Dar (1988)","genres":"(no genres listed)"}
+{"movieId":169816,"userId":108,"predicted_rating":5.8577666,"title":"Day of the Panther (1988)","genres":"Action"}
+{"movieId":147966,"userId":108,"predicted_rating":5.8577666,"title":"Tarzan's Fight for Life (1958)","genres":"Action|Adventure"}
+{"movieId":112657,"userId":108,"predicted_rating":5.57728,"title":"Unraveled (2011)","genres":"Documentary"}
+{"movieId":156771,"userId":108,"predicted_rating":5.3595862,"title":"Dangerous Days: Making Blade Runner (2007)","genres":"Documentary"}
+{"movieId":184129,"userId":108,"predicted_rating":5.342767,"title":"The Living End (1992)","genres":"Drama|Romance"}
+{"movieId":181175,"userId":108,"predicted_rating":5.317351,"title":"War Requiem (1989)","genres":"Drama|War"}
+{"movieId":178027,"userId":108,"predicted_rating":5.317351,"title":"People That Are Not Me (2016)","genres":"Drama|Romance"}
+{"movieId":176893,"userId":108,"predicted_rating":5.317351,"title":"Custody (2016)","genres":"Drama"}
+{"movieId":196965,"userId":115,"predicted_rating":7.746974,"title":"Fate/Stay Night: Unlimited Blade Works (2010)","genres":"Action|Animation|Fantasy"}
+{"movieId":153184,"userId":115,"predicted_rating":7.52549,"title":"Vergeef me","genres":"(no genres listed)"}
+{"movieId":156771,"userId":115,"predicted_rating":7.2359304,"title":"Dangerous Days: Making Blade Runner (2007)","genres":"Documentary"}
+{"movieId":169124,"userId":115,"predicted_rating":7.0487766,"title":"Coquille (1999)","genres":"(no genres listed)"}
+{"movieId":190447,"userId":115,"predicted_rating":6.8774033,"title":"Nodame Cantabile: The Movie I (2009)","genres":"Drama|Romance"}
+{"movieId":184129,"userId":115,"predicted_rating":6.821802,"title":"The Living End (1992)","genres":"Drama|Romance"}
+{"movieId":154878,"userId":115,"predicted_rating":6.7729406,"title":"The Woman Who Powders Herself (1972)","genres":"(no genres listed)"}
+{"movieId":169816,"userId":115,"predicted_rating":6.7694964,"title":"Day of the Panther (1988)","genres":"Action"}
+{"movieId":147966,"userId":115,"predicted_rating":6.7694964,"title":"Tarzan's Fight for Life (1958)","genres":"Action|Adventure"}
+{"movieId":148468,"userId":115,"predicted_rating":6.6196294,"title":"The Garden of Sinners - Chapter 2: …and nothing heart. (Murder Speculation Part A) (2007)","genres":"Animation"}
+{"movieId":172223,"userId":126,"predicted_rating":10.436453,"title":"School Of Life (2005)","genres":"Children|Comedy|Drama"}
+{"movieId":156771,"userId":126,"predicted_rating":7.8076534,"title":"Dangerous Days: Making Blade Runner (2007)","genres":"Documentary"}
+{"movieId":183717,"userId":126,"predicted_rating":7.710351,"title":"Om-Dar-Ba-Dar (1988)","genres":"(no genres listed)"}
+{"movieId":153184,"userId":126,"predicted_rating":7.3320103,"title":"Vergeef me","genres":"(no genres listed)"}
+{"movieId":169816,"userId":126,"predicted_rating":7.3119044,"title":"Day of the Panther (1988)","genres":"Action"}
+{"movieId":147966,"userId":126,"predicted_rating":7.3119044,"title":"Tarzan's Fight for Life (1958)","genres":"Action|Adventure"}
+{"movieId":190447,"userId":126,"predicted_rating":7.279962,"title":"Nodame Cantabile: The Movie I (2009)","genres":"Drama|Romance"}
+{"movieId":181175,"userId":126,"predicted_rating":7.1421022,"title":"War Requiem (1989)","genres":"Drama|War"}
+{"movieId":178027,"userId":126,"predicted_rating":7.1421022,"title":"People That Are Not Me (2016)","genres":"Drama|Romance"}
+{"movieId":176893,"userId":126,"predicted_rating":7.1421022,"title":"Custody (2016)","genres":"Drama"}
+{"movieId":196965,"userId":133,"predicted_rating":7.6682158,"title":"Fate/Stay Night: Unlimited Blade Works (2010)","genres":"Action|Animation|Fantasy"}
+{"movieId":183717,"userId":133,"predicted_rating":7.407551,"title":"Om-Dar-Ba-Dar (1988)","genres":"(no genres listed)"}
+{"movieId":148468,"userId":133,"predicted_rating":6.8036013,"title":"The Garden of Sinners - Chapter 2: …and nothing heart. (Murder Speculation Part A) (2007)","genres":"Animation"}
+{"movieId":131548,"userId":133,"predicted_rating":6.655922,"title":"Hardbodies (1984)","genres":"Comedy"}
+{"movieId":128830,"userId":133,"predicted_rating":6.075744,"title":"Plastic Bag (2009)","genres":"Drama"}
+{"movieId":169816,"userId":133,"predicted_rating":5.941897,"title":"Day of the Panther (1988)","genres":"Action"}
+{"movieId":147966,"userId":133,"predicted_rating":5.941897,"title":"Tarzan's Fight for Life (1958)","genres":"Action|Adventure"}
+{"movieId":190447,"userId":133,"predicted_rating":5.4693646,"title":"Nodame Cantabile: The Movie I (2009)","genres":"Drama|Romance"}
+{"movieId":164226,"userId":133,"predicted_rating":5.437396,"title":"Maximum Ride (2016)","genres":"Action|Adventure|Comedy|Fantasy|Sci-Fi|Thriller"}
+{"movieId":176699,"userId":133,"predicted_rating":5.3480873,"title":"Boys in the Trees (2016)","genres":"Drama"}
+{"movieId":183717,"userId":137,"predicted_rating":8.810232,"title":"Om-Dar-Ba-Dar (1988)","genres":"(no genres listed)"}
+{"movieId":196965,"userId":137,"predicted_rating":7.774919,"title":"Fate/Stay Night: Unlimited Blade Works (2010)","genres":"Action|Animation|Fantasy"}
+{"movieId":172223,"userId":137,"predicted_rating":7.738426,"title":"School Of Life (2005)","genres":"Children|Comedy|Drama"}
+{"movieId":148468,"userId":137,"predicted_rating":6.811043,"title":"The Garden of Sinners - Chapter 2: …and nothing heart. (Murder Speculation Part A) (2007)","genres":"Animation"}
+{"movieId":190447,"userId":137,"predicted_rating":6.549105,"title":"Nodame Cantabile: The Movie I (2009)","genres":"Drama|Romance"}
+{"movieId":128830,"userId":137,"predicted_rating":6.3621163,"title":"Plastic Bag (2009)","genres":"Drama"}
+{"movieId":156771,"userId":137,"predicted_rating":6.352119,"title":"Dangerous Days: Making Blade Runner (2007)","genres":"Documentary"}
+{"movieId":176699,"userId":137,"predicted_rating":6.2835474,"title":"Boys in the Trees (2016)","genres":"Drama"}
+{"movieId":131548,"userId":137,"predicted_rating":6.2657986,"title":"Hardbodies (1984)","genres":"Comedy"}
+{"movieId":169124,"userId":137,"predicted_rating":5.771143,"title":"Coquille (1999)","genres":"(no genres listed)"}
+{"movieId":172223,"userId":148,"predicted_rating":8.146135,"title":"School Of Life (2005)","genres":"Children|Comedy|Drama"}
+{"movieId":169816,"userId":148,"predicted_rating":8.106016,"title":"Day of the Panther (1988)","genres":"Action"}
+{"movieId":147966,"userId":148,"predicted_rating":8.106016,"title":"Tarzan's Fight for Life (1958)","genres":"Action|Adventure"}
+{"movieId":196965,"userId":148,"predicted_rating":7.641756,"title":"Fate/Stay Night: Unlimited Blade Works (2010)","genres":"Action|Animation|Fantasy"}
+{"movieId":190447,"userId":148,"predicted_rating":6.925301,"title":"Nodame Cantabile: The Movie I (2009)","genres":"Drama|Romance"}
+{"movieId":153184,"userId":148,"predicted_rating":6.880156,"title":"Vergeef me","genres":"(no genres listed)"}
+{"movieId":156771,"userId":148,"predicted_rating":6.8764668,"title":"Dangerous Days: Making Blade Runner (2007)","genres":"Documentary"}
+{"movieId":148468,"userId":148,"predicted_rating":6.543565,"title":"The Garden of Sinners - Chapter 2: …and nothing heart. (Murder Speculation Part A) (2007)","genres":"Animation"}
+{"movieId":184129,"userId":148,"predicted_rating":6.5359297,"title":"The Living End (1992)","genres":"Drama|Romance"}
+{"movieId":183717,"userId":148,"predicted_rating":6.4367523,"title":"Om-Dar-Ba-Dar (1988)","genres":"(no genres listed)"}
+{"movieId":172223,"userId":155,"predicted_rating":8.922134,"title":"School Of Life (2005)","genres":"Children|Comedy|Drama"}
+{"movieId":183717,"userId":155,"predicted_rating":7.8505363,"title":"Om-Dar-Ba-Dar (1988)","genres":"(no genres listed)"}
+{"movieId":196965,"userId":155,"predicted_rating":7.0165834,"title":"Fate/Stay Night: Unlimited Blade Works (2010)","genres":"Action|Animation|Fantasy"}
+{"movieId":156771,"userId":155,"predicted_rating":6.777774,"title":"Dangerous Days: Making Blade Runner (2007)","genres":"Documentary"}
+{"movieId":169816,"userId":155,"predicted_rating":6.2666073,"title":"Day of the Panther (1988)","genres":"Action"}
+{"movieId":147966,"userId":155,"predicted_rating":6.2666073,"title":"Tarzan's Fight for Life (1958)","genres":"Action|Adventure"}
+{"movieId":153184,"userId":155,"predicted_rating":6.054628,"title":"Vergeef me","genres":"(no genres listed)"}
+{"movieId":181175,"userId":155,"predicted_rating":6.0527625,"title":"War Requiem (1989)","genres":"Drama|War"}
+{"movieId":178027,"userId":155,"predicted_rating":6.0527625,"title":"People That Are Not Me (2016)","genres":"Drama|Romance"}
+{"movieId":176893,"userId":155,"predicted_rating":6.0527625,"title":"Custody (2016)","genres":"Drama"}
+{"movieId":169816,"userId":193,"predicted_rating":7.710456,"title":"Day of the Panther (1988)","genres":"Action"}
+{"movieId":147966,"userId":193,"predicted_rating":7.710456,"title":"Tarzan's Fight for Life (1958)","genres":"Action|Adventure"}
+{"movieId":172223,"userId":193,"predicted_rating":7.411628,"title":"School Of Life (2005)","genres":"Children|Comedy|Drama"}
+{"movieId":112657,"userId":193,"predicted_rating":6.3905067,"title":"Unraveled (2011)","genres":"Documentary"}
+{"movieId":159017,"userId":193,"predicted_rating":6.1518507,"title":"Adolf Hitler: The Greatest Story Never Told (2013)","genres":"Documentary"}
+{"movieId":153184,"userId":193,"predicted_rating":6.009075,"title":"Vergeef me","genres":"(no genres listed)"}
+{"movieId":156771,"userId":193,"predicted_rating":5.7976217,"title":"Dangerous Days: Making Blade Runner (2007)","genres":"Documentary"}
+{"movieId":131548,"userId":193,"predicted_rating":5.724812,"title":"Hardbodies (1984)","genres":"Comedy"}
+{"movieId":194618,"userId":193,"predicted_rating":5.658892,"title":"Gosnell: The Trial of America's Biggest Serial Killer (2018)","genres":"Drama"}
+{"movieId":146112,"userId":193,"predicted_rating":5.606719,"title":"Ittefaq","genres":"(no genres listed)"}
+{"movieId":172223,"userId":211,"predicted_rating":9.678155,"title":"School Of Life (2005)","genres":"Children|Comedy|Drama"}
+{"movieId":183717,"userId":211,"predicted_rating":9.528489,"title":"Om-Dar-Ba-Dar (1988)","genres":"(no genres listed)"}
+{"movieId":196965,"userId":211,"predicted_rating":8.681783,"title":"Fate/Stay Night: Unlimited Blade Works (2010)","genres":"Action|Animation|Fantasy"}
+{"movieId":156771,"userId":211,"predicted_rating":7.644168,"title":"Dangerous Days: Making Blade Runner (2007)","genres":"Documentary"}
+{"movieId":148468,"userId":211,"predicted_rating":7.4857645,"title":"The Garden of Sinners - Chapter 2: …and nothing heart. (Murder Speculation Part A) (2007)","genres":"Animation"}
+{"movieId":190447,"userId":211,"predicted_rating":7.1860714,"title":"Nodame Cantabile: The Movie I (2009)","genres":"Drama|Romance"}
+{"movieId":131548,"userId":211,"predicted_rating":7.0994205,"title":"Hardbodies (1984)","genres":"Comedy"}
+{"movieId":176699,"userId":211,"predicted_rating":6.751792,"title":"Boys in the Trees (2016)","genres":"Drama"}
+{"movieId":169816,"userId":211,"predicted_rating":6.719611,"title":"Day of the Panther (1988)","genres":"Action"}
+{"movieId":147966,"userId":211,"predicted_rating":6.719611,"title":"Tarzan's Fight for Life (1958)","genres":"Action|Adventure"}
+{"movieId":172223,"userId":243,"predicted_rating":6.7565184,"title":"School Of Life (2005)","genres":"Children|Comedy|Drama"}
+{"movieId":156771,"userId":243,"predicted_rating":6.0960164,"title":"Dangerous Days: Making Blade Runner (2007)","genres":"Documentary"}
+{"movieId":169816,"userId":243,"predicted_rating":5.959057,"title":"Day of the Panther (1988)","genres":"Action"}
+{"movieId":147966,"userId":243,"predicted_rating":5.959057,"title":"Tarzan's Fight for Life (1958)","genres":"Action|Adventure"}
+{"movieId":196965,"userId":243,"predicted_rating":5.838113,"title":"Fate/Stay Night: Unlimited Blade Works (2010)","genres":"Action|Animation|Fantasy"}
+{"movieId":153184,"userId":243,"predicted_rating":5.736881,"title":"Vergeef me","genres":"(no genres listed)"}
+{"movieId":181175,"userId":243,"predicted_rating":5.5847387,"title":"War Requiem (1989)","genres":"Drama|War"}
+{"movieId":178027,"userId":243,"predicted_rating":5.5847387,"title":"People That Are Not Me (2016)","genres":"Drama|Romance"}
+{"movieId":176893,"userId":243,"predicted_rating":5.5847387,"title":"Custody (2016)","genres":"Drama"}
+{"movieId":176179,"userId":243,"predicted_rating":5.5847387,"title":"Big Men (2014)","genres":"Documentary"}
+{"movieId":169816,"userId":251,"predicted_rating":9.336072,"title":"Day of the Panther (1988)","genres":"Action"}
+{"movieId":147966,"userId":251,"predicted_rating":9.336072,"title":"Tarzan's Fight for Life (1958)","genres":"Action|Adventure"}
+{"movieId":184129,"userId":251,"predicted_rating":8.073285,"title":"The Living End (1992)","genres":"Drama|Romance"}
+{"movieId":196965,"userId":251,"predicted_rating":7.696055,"title":"Fate/Stay Night: Unlimited Blade Works (2010)","genres":"Action|Animation|Fantasy"}
+{"movieId":59905,"userId":251,"predicted_rating":6.901059,"title":"Prefab People, The (Panelkapcsolat) (1982)","genres":"Drama"}
+{"movieId":190447,"userId":251,"predicted_rating":6.8756056,"title":"Nodame Cantabile: The Movie I (2009)","genres":"Drama|Romance"}
+{"movieId":148468,"userId":251,"predicted_rating":6.8105674,"title":"The Garden of Sinners - Chapter 2: …and nothing heart. (Murder Speculation Part A) (2007)","genres":"Animation"}
+{"movieId":170469,"userId":251,"predicted_rating":6.3785877,"title":"Shooters (2001)","genres":"Action|Crime|Thriller"}
+{"movieId":126066,"userId":251,"predicted_rating":6.270594,"title":"Broom-Stick Bunny (1956)","genres":"Animation|Children|Comedy"}
+{"movieId":173955,"userId":251,"predicted_rating":6.2194133,"title":"Bully for Bugs (1953)","genres":"Animation"}
+{"movieId":172223,"userId":255,"predicted_rating":8.6188545,"title":"School Of Life (2005)","genres":"Children|Comedy|Drama"}
+{"movieId":169816,"userId":255,"predicted_rating":8.457577,"title":"Day of the Panther (1988)","genres":"Action"}
+{"movieId":147966,"userId":255,"predicted_rating":8.457577,"title":"Tarzan's Fight for Life (1958)","genres":"Action|Adventure"}
+{"movieId":156771,"userId":255,"predicted_rating":6.807379,"title":"Dangerous Days: Making Blade Runner (2007)","genres":"Documentary"}
+{"movieId":196965,"userId":255,"predicted_rating":6.7324085,"title":"Fate/Stay Night: Unlimited Blade Works (2010)","genres":"Action|Animation|Fantasy"}
+{"movieId":153184,"userId":255,"predicted_rating":6.6191044,"title":"Vergeef me","genres":"(no genres listed)"}
+{"movieId":190447,"userId":255,"predicted_rating":6.1973944,"title":"Nodame Cantabile: The Movie I (2009)","genres":"Drama|Romance"}
+{"movieId":112657,"userId":255,"predicted_rating":6.0739627,"title":"Unraveled (2011)","genres":"Documentary"}
+{"movieId":154878,"userId":255,"predicted_rating":5.9571934,"title":"The Woman Who Powders Herself (1972)","genres":"(no genres listed)"}
+{"movieId":181175,"userId":255,"predicted_rating":5.876615,"title":"War Requiem (1989)","genres":"Drama|War"}
+{"movieId":172223,"userId":296,"predicted_rating":7.2224355,"title":"School Of Life (2005)","genres":"Children|Comedy|Drama"}
+{"movieId":169816,"userId":296,"predicted_rating":5.583555,"title":"Day of the Panther (1988)","genres":"Action"}
+{"movieId":147966,"userId":296,"predicted_rating":5.583555,"title":"Tarzan's Fight for Life (1958)","genres":"Action|Adventure"}
+{"movieId":183717,"userId":296,"predicted_rating":5.458282,"title":"Om-Dar-Ba-Dar (1988)","genres":"(no genres listed)"}
+{"movieId":153184,"userId":296,"predicted_rating":5.191077,"title":"Vergeef me","genres":"(no genres listed)"}
+{"movieId":156771,"userId":296,"predicted_rating":5.0020924,"title":"Dangerous Days: Making Blade Runner (2007)","genres":"Documentary"}
+{"movieId":181175,"userId":296,"predicted_rating":4.819373,"title":"War Requiem (1989)","genres":"Drama|War"}
+{"movieId":178027,"userId":296,"predicted_rating":4.819373,"title":"People That Are Not Me (2016)","genres":"Drama|Romance"}
+{"movieId":176893,"userId":296,"predicted_rating":4.819373,"title":"Custody (2016)","genres":"Drama"}
+{"movieId":176179,"userId":296,"predicted_rating":4.819373,"title":"Big Men (2014)","genres":"Documentary"}
+{"movieId":172223,"userId":321,"predicted_rating":7.6062746,"title":"School Of Life (2005)","genres":"Children|Comedy|Drama"}
+{"movieId":169816,"userId":321,"predicted_rating":7.529458,"title":"Day of the Panther (1988)","genres":"Action"}
+{"movieId":147966,"userId":321,"predicted_rating":7.529458,"title":"Tarzan's Fight for Life (1958)","genres":"Action|Adventure"}
+{"movieId":196965,"userId":321,"predicted_rating":7.1890464,"title":"Fate/Stay Night: Unlimited Blade Works (2010)","genres":"Action|Animation|Fantasy"}
+{"movieId":156771,"userId":321,"predicted_rating":6.7562394,"title":"Dangerous Days: Making Blade Runner (2007)","genres":"Documentary"}
+{"movieId":153184,"userId":321,"predicted_rating":6.421142,"title":"Vergeef me","genres":"(no genres listed)"}
+{"movieId":148468,"userId":321,"predicted_rating":6.1318226,"title":"The Garden of Sinners - Chapter 2: …and nothing heart. (Murder Speculation Part A) (2007)","genres":"Animation"}
+{"movieId":183717,"userId":321,"predicted_rating":5.965311,"title":"Om-Dar-Ba-Dar (1988)","genres":"(no genres listed)"}
+{"movieId":154878,"userId":321,"predicted_rating":5.779028,"title":"The Woman Who Powders Herself (1972)","genres":"(no genres listed)"}
+{"movieId":181175,"userId":321,"predicted_rating":5.6287513,"title":"War Requiem (1989)","genres":"Drama|War"}
+{"movieId":196965,"userId":322,"predicted_rating":9.105062,"title":"Fate/Stay Night: Unlimited Blade Works (2010)","genres":"Action|Animation|Fantasy"}
+{"movieId":183717,"userId":322,"predicted_rating":8.211765,"title":"Om-Dar-Ba-Dar (1988)","genres":"(no genres listed)"}
+{"movieId":148468,"userId":322,"predicted_rating":8.016302,"title":"The Garden of Sinners - Chapter 2: …and nothing heart. (Murder Speculation Part A) (2007)","genres":"Animation"}
+{"movieId":172223,"userId":322,"predicted_rating":7.6608534,"title":"School Of Life (2005)","genres":"Children|Comedy|Drama"}
+{"movieId":156771,"userId":322,"predicted_rating":7.1604633,"title":"Dangerous Days: Making Blade Runner (2007)","genres":"Documentary"}
+{"movieId":176699,"userId":322,"predicted_rating":6.7072234,"title":"Boys in the Trees (2016)","genres":"Drama"}
+{"movieId":169124,"userId":322,"predicted_rating":6.343889,"title":"Coquille (1999)","genres":"(no genres listed)"}
+{"movieId":190447,"userId":322,"predicted_rating":6.3287125,"title":"Nodame Cantabile: The Movie I (2009)","genres":"Drama|Romance"}
+{"movieId":153184,"userId":322,"predicted_rating":6.1548557,"title":"Vergeef me","genres":"(no genres listed)"}
+{"movieId":164226,"userId":322,"predicted_rating":6.1063747,"title":"Maximum Ride (2016)","genres":"Action|Adventure|Comedy|Fantasy|Sci-Fi|Thriller"}
+{"movieId":183717,"userId":362,"predicted_rating":8.300335,"title":"Om-Dar-Ba-Dar (1988)","genres":"(no genres listed)"}
+{"movieId":196965,"userId":362,"predicted_rating":7.2645082,"title":"Fate/Stay Night: Unlimited Blade Works (2010)","genres":"Action|Animation|Fantasy"}
+{"movieId":172223,"userId":362,"predicted_rating":7.173566,"title":"School Of Life (2005)","genres":"Children|Comedy|Drama"}
+{"movieId":148468,"userId":362,"predicted_rating":6.395939,"title":"The Garden of Sinners - Chapter 2: …and nothing heart. (Murder Speculation Part A) (2007)","genres":"Animation"}
+{"movieId":156771,"userId":362,"predicted_rating":5.3662434,"title":"Dangerous Days: Making Blade Runner (2007)","genres":"Documentary"}
+{"movieId":128830,"userId":362,"predicted_rating":5.2316637,"title":"Plastic Bag (2009)","genres":"Drama"}
+{"movieId":190447,"userId":362,"predicted_rating":5.176671,"title":"Nodame Cantabile: The Movie I (2009)","genres":"Drama|Romance"}
+{"movieId":131548,"userId":362,"predicted_rating":5.0627866,"title":"Hardbodies (1984)","genres":"Comedy"}
+{"movieId":193918,"userId":362,"predicted_rating":4.871702,"title":"Smoke 'Em If You Got 'Em (1988)","genres":"Comedy"}
+{"movieId":139036,"userId":362,"predicted_rating":4.871702,"title":"World Gone Wild (1988)","genres":"Action|Sci-Fi"}
+{"movieId":172223,"userId":368,"predicted_rating":8.604852,"title":"School Of Life (2005)","genres":"Children|Comedy|Drama"}
+{"movieId":196965,"userId":368,"predicted_rating":8.324209,"title":"Fate/Stay Night: Unlimited Blade Works (2010)","genres":"Action|Animation|Fantasy"}
+{"movieId":183717,"userId":368,"predicted_rating":7.889247,"title":"Om-Dar-Ba-Dar (1988)","genres":"(no genres listed)"}
+{"movieId":156771,"userId":368,"predicted_rating":7.676981,"title":"Dangerous Days: Making Blade Runner (2007)","genres":"Documentary"}
+{"movieId":148468,"userId":368,"predicted_rating":7.1150236,"title":"The Garden of Sinners - Chapter 2: …and nothing heart. (Murder Speculation Part A) (2007)","genres":"Animation"}
+{"movieId":169816,"userId":368,"predicted_rating":6.943063,"title":"Day of the Panther (1988)","genres":"Action"}
+{"movieId":147966,"userId":368,"predicted_rating":6.943063,"title":"Tarzan's Fight for Life (1958)","genres":"Action|Adventure"}
+{"movieId":131548,"userId":368,"predicted_rating":6.7778845,"title":"Hardbodies (1984)","genres":"Comedy"}
+{"movieId":153184,"userId":368,"predicted_rating":6.6785574,"title":"Vergeef me","genres":"(no genres listed)"}
+{"movieId":190447,"userId":368,"predicted_rating":6.5419855,"title":"Nodame Cantabile: The Movie I (2009)","genres":"Drama|Romance"}
+{"movieId":196965,"userId":375,"predicted_rating":8.043772,"title":"Fate/Stay Night: Unlimited Blade Works (2010)","genres":"Action|Animation|Fantasy"}
+{"movieId":172223,"userId":375,"predicted_rating":7.4616356,"title":"School Of Life (2005)","genres":"Children|Comedy|Drama"}
+{"movieId":148468,"userId":375,"predicted_rating":7.028076,"title":"The Garden of Sinners - Chapter 2: …and nothing heart. (Murder Speculation Part A) (2007)","genres":"Animation"}
+{"movieId":156771,"userId":375,"predicted_rating":6.992485,"title":"Dangerous Days: Making Blade Runner (2007)","genres":"Documentary"}
+{"movieId":190447,"userId":375,"predicted_rating":6.7156386,"title":"Nodame Cantabile: The Movie I (2009)","genres":"Drama|Romance"}
+{"movieId":153184,"userId":375,"predicted_rating":6.467147,"title":"Vergeef me","genres":"(no genres listed)"}
+{"movieId":176699,"userId":375,"predicted_rating":6.397642,"title":"Boys in the Trees (2016)","genres":"Drama"}
+{"movieId":196989,"userId":375,"predicted_rating":5.9528337,"title":"First Period (2013)","genres":"Comedy"}
+{"movieId":181175,"userId":375,"predicted_rating":5.9498854,"title":"War Requiem (1989)","genres":"Drama|War"}
+{"movieId":178027,"userId":375,"predicted_rating":5.9498854,"title":"People That Are Not Me (2016)","genres":"Drama|Romance"}
+{"movieId":172223,"userId":385,"predicted_rating":7.133938,"title":"School Of Life (2005)","genres":"Children|Comedy|Drama"}
+{"movieId":190447,"userId":385,"predicted_rating":6.2867393,"title":"Nodame Cantabile: The Movie I (2009)","genres":"Drama|Romance"}
+{"movieId":156771,"userId":385,"predicted_rating":6.267393,"title":"Dangerous Days: Making Blade Runner (2007)","genres":"Documentary"}
+{"movieId":181175,"userId":385,"predicted_rating":5.8488436,"title":"War Requiem (1989)","genres":"Drama|War"}
+{"movieId":178027,"userId":385,"predicted_rating":5.8488436,"title":"People That Are Not Me (2016)","genres":"Drama|Romance"}
+{"movieId":176893,"userId":385,"predicted_rating":5.8488436,"title":"Custody (2016)","genres":"Drama"}
+{"movieId":176179,"userId":385,"predicted_rating":5.8488436,"title":"Big Men (2014)","genres":"Documentary"}
+{"movieId":173959,"userId":385,"predicted_rating":5.8488436,"title":"The Dreamed Ones (2016)","genres":"(no genres listed)"}
+{"movieId":156954,"userId":385,"predicted_rating":5.8488436,"title":"Don't Let the Angels Fall (1969)","genres":"(no genres listed)"}
+{"movieId":153038,"userId":385,"predicted_rating":5.8488436,"title":"Avetik (1992)","genres":"Drama"}
+{"movieId":172223,"userId":392,"predicted_rating":10.133282,"title":"School Of Life (2005)","genres":"Children|Comedy|Drama"}
+{"movieId":196965,"userId":392,"predicted_rating":9.939822,"title":"Fate/Stay Night: Unlimited Blade Works (2010)","genres":"Action|Animation|Fantasy"}
+{"movieId":156771,"userId":392,"predicted_rating":9.255757,"title":"Dangerous Days: Making Blade Runner (2007)","genres":"Documentary"}
+{"movieId":183717,"userId":392,"predicted_rating":8.725737,"title":"Om-Dar-Ba-Dar (1988)","genres":"(no genres listed)"}
+{"movieId":148468,"userId":392,"predicted_rating":8.60368,"title":"The Garden of Sinners - Chapter 2: …and nothing heart. (Murder Speculation Part A) (2007)","genres":"Animation"}
+{"movieId":169816,"userId":392,"predicted_rating":7.436102,"title":"Day of the Panther (1988)","genres":"Action"}
+{"movieId":147966,"userId":392,"predicted_rating":7.436102,"title":"Tarzan's Fight for Life (1958)","genres":"Action|Adventure"}
+{"movieId":153184,"userId":392,"predicted_rating":7.4109144,"title":"Vergeef me","genres":"(no genres listed)"}
+{"movieId":190447,"userId":392,"predicted_rating":7.2757554,"title":"Nodame Cantabile: The Movie I (2009)","genres":"Drama|Romance"}
+{"movieId":193918,"userId":392,"predicted_rating":7.171835,"title":"Smoke 'Em If You Got 'Em (1988)","genres":"Comedy"}
+{"movieId":183717,"userId":451,"predicted_rating":11.836651,"title":"Om-Dar-Ba-Dar (1988)","genres":"(no genres listed)"}
+{"movieId":172223,"userId":451,"predicted_rating":11.075889,"title":"School Of Life (2005)","genres":"Children|Comedy|Drama"}
+{"movieId":196965,"userId":451,"predicted_rating":10.83815,"title":"Fate/Stay Night: Unlimited Blade Works (2010)","genres":"Action|Animation|Fantasy"}
+{"movieId":148468,"userId":451,"predicted_rating":9.29798,"title":"The Garden of Sinners - Chapter 2: …and nothing heart. (Murder Speculation Part A) (2007)","genres":"Animation"}
+{"movieId":156771,"userId":451,"predicted_rating":8.993399,"title":"Dangerous Days: Making Blade Runner (2007)","genres":"Documentary"}
+{"movieId":131548,"userId":451,"predicted_rating":8.675401,"title":"Hardbodies (1984)","genres":"Comedy"}
+{"movieId":176699,"userId":451,"predicted_rating":8.341663,"title":"Boys in the Trees (2016)","genres":"Drama"}
+{"movieId":169124,"userId":451,"predicted_rating":8.041998,"title":"Coquille (1999)","genres":"(no genres listed)"}
+{"movieId":193918,"userId":451,"predicted_rating":7.934897,"title":"Smoke 'Em If You Got 'Em (1988)","genres":"Comedy"}
+{"movieId":139036,"userId":451,"predicted_rating":7.934897,"title":"World Gone Wild (1988)","genres":"Action|Sci-Fi"}
+{"movieId":196965,"userId":458,"predicted_rating":7.3050413,"title":"Fate/Stay Night: Unlimited Blade Works (2010)","genres":"Action|Animation|Fantasy"}
+{"movieId":172223,"userId":458,"predicted_rating":6.9614987,"title":"School Of Life (2005)","genres":"Children|Comedy|Drama"}
+{"movieId":148468,"userId":458,"predicted_rating":6.394284,"title":"The Garden of Sinners - Chapter 2: …and nothing heart. (Murder Speculation Part A) (2007)","genres":"Animation"}
+{"movieId":156771,"userId":458,"predicted_rating":6.1359663,"title":"Dangerous Days: Making Blade Runner (2007)","genres":"Documentary"}
+{"movieId":169816,"userId":458,"predicted_rating":6.005515,"title":"Day of the Panther (1988)","genres":"Action"}
+{"movieId":147966,"userId":458,"predicted_rating":6.005515,"title":"Tarzan's Fight for Life (1958)","genres":"Action|Adventure"}
+{"movieId":181175,"userId":458,"predicted_rating":5.7099295,"title":"War Requiem (1989)","genres":"Drama|War"}
+{"movieId":178027,"userId":458,"predicted_rating":5.7099295,"title":"People That Are Not Me (2016)","genres":"Drama|Romance"}
+{"movieId":176893,"userId":458,"predicted_rating":5.7099295,"title":"Custody (2016)","genres":"Drama"}
+{"movieId":176179,"userId":458,"predicted_rating":5.7099295,"title":"Big Men (2014)","genres":"Documentary"}
+{"movieId":172223,"userId":463,"predicted_rating":8.897225,"title":"School Of Life (2005)","genres":"Children|Comedy|Drama"}
+{"movieId":196965,"userId":463,"predicted_rating":8.591267,"title":"Fate/Stay Night: Unlimited Blade Works (2010)","genres":"Action|Animation|Fantasy"}
+{"movieId":183717,"userId":463,"predicted_rating":7.975731,"title":"Om-Dar-Ba-Dar (1988)","genres":"(no genres listed)"}
+{"movieId":156771,"userId":463,"predicted_rating":7.6711187,"title":"Dangerous Days: Making Blade Runner (2007)","genres":"Documentary"}
+{"movieId":148468,"userId":463,"predicted_rating":7.341817,"title":"The Garden of Sinners - Chapter 2: …and nothing heart. (Murder Speculation Part A) (2007)","genres":"Animation"}
+{"movieId":153184,"userId":463,"predicted_rating":7.3008676,"title":"Vergeef me","genres":"(no genres listed)"}
+{"movieId":169124,"userId":463,"predicted_rating":6.9903007,"title":"Coquille (1999)","genres":"(no genres listed)"}
+{"movieId":193918,"userId":463,"predicted_rating":6.982485,"title":"Smoke 'Em If You Got 'Em (1988)","genres":"Comedy"}
+{"movieId":139036,"userId":463,"predicted_rating":6.982485,"title":"World Gone Wild (1988)","genres":"Action|Sci-Fi"}
+{"movieId":176699,"userId":463,"predicted_rating":6.886321,"title":"Boys in the Trees (2016)","genres":"Drama"}
+{"movieId":172223,"userId":471,"predicted_rating":9.154885,"title":"School Of Life (2005)","genres":"Children|Comedy|Drama"}
+{"movieId":183717,"userId":471,"predicted_rating":8.664293,"title":"Om-Dar-Ba-Dar (1988)","genres":"(no genres listed)"}
+{"movieId":196965,"userId":471,"predicted_rating":8.616362,"title":"Fate/Stay Night: Unlimited Blade Works (2010)","genres":"Action|Animation|Fantasy"}
+{"movieId":156771,"userId":471,"predicted_rating":8.182253,"title":"Dangerous Days: Making Blade Runner (2007)","genres":"Documentary"}
+{"movieId":148468,"userId":471,"predicted_rating":7.3817434,"title":"The Garden of Sinners - Chapter 2: …and nothing heart. (Murder Speculation Part A) (2007)","genres":"Animation"}
+{"movieId":190447,"userId":471,"predicted_rating":7.3608065,"title":"Nodame Cantabile: The Movie I (2009)","genres":"Drama|Romance"}
+{"movieId":169124,"userId":471,"predicted_rating":7.0671983,"title":"Coquille (1999)","genres":"(no genres listed)"}
+{"movieId":131548,"userId":471,"predicted_rating":6.7982163,"title":"Hardbodies (1984)","genres":"Comedy"}
+{"movieId":153184,"userId":471,"predicted_rating":6.7265882,"title":"Vergeef me","genres":"(no genres listed)"}
+{"movieId":190431,"userId":471,"predicted_rating":6.4407053,"title":"The Mole Song: Hong Kong Capriccio (2016)","genres":"Action|Comedy"}
+{"movieId":172223,"userId":472,"predicted_rating":9.876783,"title":"School Of Life (2005)","genres":"Children|Comedy|Drama"}
+{"movieId":190447,"userId":472,"predicted_rating":7.6096544,"title":"Nodame Cantabile: The Movie I (2009)","genres":"Drama|Romance"}
+{"movieId":156771,"userId":472,"predicted_rating":7.5791464,"title":"Dangerous Days: Making Blade Runner (2007)","genres":"Documentary"}
+{"movieId":196965,"userId":472,"predicted_rating":7.312277,"title":"Fate/Stay Night: Unlimited Blade Works (2010)","genres":"Action|Animation|Fantasy"}
+{"movieId":183717,"userId":472,"predicted_rating":6.9787807,"title":"Om-Dar-Ba-Dar (1988)","genres":"(no genres listed)"}
+{"movieId":190431,"userId":472,"predicted_rating":6.6584473,"title":"The Mole Song: Hong Kong Capriccio (2016)","genres":"Action|Comedy"}
+{"movieId":153184,"userId":472,"predicted_rating":6.5766225,"title":"Vergeef me","genres":"(no genres listed)"}
+{"movieId":181175,"userId":472,"predicted_rating":6.5216,"title":"War Requiem (1989)","genres":"Drama|War"}
+{"movieId":178027,"userId":472,"predicted_rating":6.5216,"title":"People That Are Not Me (2016)","genres":"Drama|Romance"}
+{"movieId":176893,"userId":472,"predicted_rating":6.5216,"title":"Custody (2016)","genres":"Drama"}
+{"movieId":172223,"userId":481,"predicted_rating":9.419256,"title":"School Of Life (2005)","genres":"Children|Comedy|Drama"}
+{"movieId":183717,"userId":481,"predicted_rating":8.530073,"title":"Om-Dar-Ba-Dar (1988)","genres":"(no genres listed)"}
+{"movieId":196965,"userId":481,"predicted_rating":8.435986,"title":"Fate/Stay Night: Unlimited Blade Works (2010)","genres":"Action|Animation|Fantasy"}
+{"movieId":156771,"userId":481,"predicted_rating":7.800215,"title":"Dangerous Days: Making Blade Runner (2007)","genres":"Documentary"}
+{"movieId":169816,"userId":481,"predicted_rating":7.295206,"title":"Day of the Panther (1988)","genres":"Action"}
+{"movieId":147966,"userId":481,"predicted_rating":7.295206,"title":"Tarzan's Fight for Life (1958)","genres":"Action|Adventure"}
+{"movieId":148468,"userId":481,"predicted_rating":7.1950946,"title":"The Garden of Sinners - Chapter 2: …and nothing heart. (Murder Speculation Part A) (2007)","genres":"Animation"}
+{"movieId":131548,"userId":481,"predicted_rating":6.8279095,"title":"Hardbodies (1984)","genres":"Comedy"}
+{"movieId":190447,"userId":481,"predicted_rating":6.7345223,"title":"Nodame Cantabile: The Movie I (2009)","genres":"Drama|Romance"}
+{"movieId":153184,"userId":481,"predicted_rating":6.6129966,"title":"Vergeef me","genres":"(no genres listed)"}
+{"movieId":196965,"userId":496,"predicted_rating":8.087042,"title":"Fate/Stay Night: Unlimited Blade Works (2010)","genres":"Action|Animation|Fantasy"}
+{"movieId":156771,"userId":496,"predicted_rating":7.7896166,"title":"Dangerous Days: Making Blade Runner (2007)","genres":"Documentary"}
+{"movieId":190447,"userId":496,"predicted_rating":7.495197,"title":"Nodame Cantabile: The Movie I (2009)","genres":"Drama|Romance"}
+{"movieId":172223,"userId":496,"predicted_rating":7.3263416,"title":"School Of Life (2005)","genres":"Children|Comedy|Drama"}
+{"movieId":153184,"userId":496,"predicted_rating":7.221323,"title":"Vergeef me","genres":"(no genres listed)"}
+{"movieId":148468,"userId":496,"predicted_rating":7.1110353,"title":"The Garden of Sinners - Chapter 2: …and nothing heart. (Murder Speculation Part A) (2007)","genres":"Animation"}
+{"movieId":139835,"userId":496,"predicted_rating":6.936221,"title":"Charlie's Farm (2014)","genres":"Horror"}
+{"movieId":190431,"userId":496,"predicted_rating":6.558297,"title":"The Mole Song: Hong Kong Capriccio (2016)","genres":"Action|Comedy"}
+{"movieId":154878,"userId":496,"predicted_rating":6.4991913,"title":"The Woman Who Powders Herself (1972)","genres":"(no genres listed)"}
+{"movieId":173651,"userId":496,"predicted_rating":6.431732,"title":"Rammstein: Live aus Berlin (1999)","genres":"(no genres listed)"}
+{"movieId":172223,"userId":513,"predicted_rating":10.639449,"title":"School Of Life (2005)","genres":"Children|Comedy|Drama"}
+{"movieId":183717,"userId":513,"predicted_rating":9.090792,"title":"Om-Dar-Ba-Dar (1988)","genres":"(no genres listed)"}
+{"movieId":169816,"userId":513,"predicted_rating":8.693972,"title":"Day of the Panther (1988)","genres":"Action"}
+{"movieId":147966,"userId":513,"predicted_rating":8.693972,"title":"Tarzan's Fight for Life (1958)","genres":"Action|Adventure"}
+{"movieId":196965,"userId":513,"predicted_rating":8.60338,"title":"Fate/Stay Night: Unlimited Blade Works (2010)","genres":"Action|Animation|Fantasy"}
+{"movieId":112657,"userId":513,"predicted_rating":8.458477,"title":"Unraveled (2011)","genres":"Documentary"}
+{"movieId":156771,"userId":513,"predicted_rating":8.284027,"title":"Dangerous Days: Making Blade Runner (2007)","genres":"Documentary"}
+{"movieId":148468,"userId":513,"predicted_rating":7.2732,"title":"The Garden of Sinners - Chapter 2: …and nothing heart. (Murder Speculation Part A) (2007)","genres":"Animation"}
+{"movieId":194680,"userId":513,"predicted_rating":7.2377987,"title":"Twisted Pair (2018)","genres":"Action|Sci-Fi|Thriller"}
+{"movieId":131548,"userId":513,"predicted_rating":7.1939163,"title":"Hardbodies (1984)","genres":"Comedy"}
+{"movieId":196965,"userId":516,"predicted_rating":7.491396,"title":"Fate/Stay Night: Unlimited Blade Works (2010)","genres":"Action|Animation|Fantasy"}
+{"movieId":169816,"userId":516,"predicted_rating":7.246866,"title":"Day of the Panther (1988)","genres":"Action"}
+{"movieId":147966,"userId":516,"predicted_rating":7.246866,"title":"Tarzan's Fight for Life (1958)","genres":"Action|Adventure"}
+{"movieId":148468,"userId":516,"predicted_rating":6.5784235,"title":"The Garden of Sinners - Chapter 2: …and nothing heart. (Murder Speculation Part A) (2007)","genres":"Animation"}
+{"movieId":172223,"userId":516,"predicted_rating":6.2305794,"title":"School Of Life (2005)","genres":"Children|Comedy|Drama"}
+{"movieId":176699,"userId":516,"predicted_rating":6.157855,"title":"Boys in the Trees (2016)","genres":"Drama"}
+{"movieId":153184,"userId":516,"predicted_rating":6.1515436,"title":"Vergeef me","genres":"(no genres listed)"}
+{"movieId":154878,"userId":516,"predicted_rating":5.5363894,"title":"The Woman Who Powders Herself (1972)","genres":"(no genres listed)"}
+{"movieId":196989,"userId":516,"predicted_rating":5.466375,"title":"First Period (2013)","genres":"Comedy"}
+{"movieId":156771,"userId":516,"predicted_rating":5.4345727,"title":"Dangerous Days: Making Blade Runner (2007)","genres":"Documentary"}
+{"movieId":156771,"userId":530,"predicted_rating":6.047226,"title":"Dangerous Days: Making Blade Runner (2007)","genres":"Documentary"}
+{"movieId":196965,"userId":530,"predicted_rating":5.993313,"title":"Fate/Stay Night: Unlimited Blade Works (2010)","genres":"Action|Animation|Fantasy"}
+{"movieId":153184,"userId":530,"predicted_rating":5.895264,"title":"Vergeef me","genres":"(no genres listed)"}
+{"movieId":172223,"userId":530,"predicted_rating":5.7921295,"title":"School Of Life (2005)","genres":"Children|Comedy|Drama"}
+{"movieId":169124,"userId":530,"predicted_rating":5.764588,"title":"Coquille (1999)","genres":"(no genres listed)"}
+{"movieId":139835,"userId":530,"predicted_rating":5.660555,"title":"Charlie's Farm (2014)","genres":"Horror"}
+{"movieId":193779,"userId":530,"predicted_rating":5.6303744,"title":"We Have Always Lived in the Castle (2018)","genres":"Drama|Mystery|Thriller"}
+{"movieId":173651,"userId":530,"predicted_rating":5.427025,"title":"Rammstein: Live aus Berlin (1999)","genres":"(no genres listed)"}
+{"movieId":146112,"userId":530,"predicted_rating":5.3094196,"title":"Ittefaq","genres":"(no genres listed)"}
+{"movieId":154878,"userId":530,"predicted_rating":5.305738,"title":"The Woman Who Powders Herself (1972)","genres":"(no genres listed)"}
+{"movieId":172223,"userId":540,"predicted_rating":9.212431,"title":"School Of Life (2005)","genres":"Children|Comedy|Drama"}
+{"movieId":156771,"userId":540,"predicted_rating":8.568981,"title":"Dangerous Days: Making Blade Runner (2007)","genres":"Documentary"}
+{"movieId":196965,"userId":540,"predicted_rating":8.328213,"title":"Fate/Stay Night: Unlimited Blade Works (2010)","genres":"Action|Animation|Fantasy"}
+{"movieId":183717,"userId":540,"predicted_rating":7.4720287,"title":"Om-Dar-Ba-Dar (1988)","genres":"(no genres listed)"}
+{"movieId":190447,"userId":540,"predicted_rating":7.324655,"title":"Nodame Cantabile: The Movie I (2009)","genres":"Drama|Romance"}
+{"movieId":148468,"userId":540,"predicted_rating":7.0961504,"title":"The Garden of Sinners - Chapter 2: …and nothing heart. (Murder Speculation Part A) (2007)","genres":"Animation"}
+{"movieId":112657,"userId":540,"predicted_rating":7.075357,"title":"Unraveled (2011)","genres":"Documentary"}
+{"movieId":153184,"userId":540,"predicted_rating":6.9525375,"title":"Vergeef me","genres":"(no genres listed)"}
+{"movieId":193918,"userId":540,"predicted_rating":6.777573,"title":"Smoke 'Em If You Got 'Em (1988)","genres":"Comedy"}
+{"movieId":139036,"userId":540,"predicted_rating":6.777573,"title":"World Gone Wild (1988)","genres":"Action|Sci-Fi"}
+{"movieId":172223,"userId":580,"predicted_rating":11.952536,"title":"School Of Life (2005)","genres":"Children|Comedy|Drama"}
+{"movieId":183717,"userId":580,"predicted_rating":10.45379,"title":"Om-Dar-Ba-Dar (1988)","genres":"(no genres listed)"}
+{"movieId":176699,"userId":580,"predicted_rating":8.5997505,"title":"Boys in the Trees (2016)","genres":"Drama"}
+{"movieId":196965,"userId":580,"predicted_rating":7.955838,"title":"Fate/Stay Night: Unlimited Blade Works (2010)","genres":"Action|Animation|Fantasy"}
+{"movieId":190447,"userId":580,"predicted_rating":7.532514,"title":"Nodame Cantabile: The Movie I (2009)","genres":"Drama|Romance"}
+{"movieId":193918,"userId":580,"predicted_rating":7.358441,"title":"Smoke 'Em If You Got 'Em (1988)","genres":"Comedy"}
+{"movieId":139036,"userId":580,"predicted_rating":7.358441,"title":"World Gone Wild (1988)","genres":"Action|Sci-Fi"}
+{"movieId":196989,"userId":580,"predicted_rating":7.1302586,"title":"First Period (2013)","genres":"Comedy"}
+{"movieId":156771,"userId":580,"predicted_rating":7.1111183,"title":"Dangerous Days: Making Blade Runner (2007)","genres":"Documentary"}
+{"movieId":181175,"userId":580,"predicted_rating":7.096587,"title":"War Requiem (1989)","genres":"Drama|War"}
+{"movieId":169816,"userId":588,"predicted_rating":7.0991154,"title":"Day of the Panther (1988)","genres":"Action"}
+{"movieId":147966,"userId":588,"predicted_rating":7.0991154,"title":"Tarzan's Fight for Life (1958)","genres":"Action|Adventure"}
+{"movieId":184129,"userId":588,"predicted_rating":6.5636015,"title":"The Living End (1992)","genres":"Drama|Romance"}
+{"movieId":153184,"userId":588,"predicted_rating":6.1018476,"title":"Vergeef me","genres":"(no genres listed)"}
+{"movieId":59905,"userId":588,"predicted_rating":6.0173683,"title":"Prefab People, The (Panelkapcsolat) (1982)","genres":"Drama"}
+{"movieId":156771,"userId":588,"predicted_rating":5.6090207,"title":"Dangerous Days: Making Blade Runner (2007)","genres":"Documentary"}
+{"movieId":154878,"userId":588,"predicted_rating":5.491663,"title":"The Woman Who Powders Herself (1972)","genres":"(no genres listed)"}
+{"movieId":181175,"userId":588,"predicted_rating":5.34956,"title":"War Requiem (1989)","genres":"Drama|War"}
+{"movieId":178027,"userId":588,"predicted_rating":5.34956,"title":"People That Are Not Me (2016)","genres":"Drama|Romance"}
+{"movieId":176893,"userId":588,"predicted_rating":5.34956,"title":"Custody (2016)","genres":"Drama"}
+{"movieId":172223,"userId":597,"predicted_rating":8.988037,"title":"School Of Life (2005)","genres":"Children|Comedy|Drama"}
+{"movieId":153184,"userId":597,"predicted_rating":7.874789,"title":"Vergeef me","genres":"(no genres listed)"}
+{"movieId":190447,"userId":597,"predicted_rating":7.7372313,"title":"Nodame Cantabile: The Movie I (2009)","genres":"Drama|Romance"}
+{"movieId":156771,"userId":597,"predicted_rating":7.663862,"title":"Dangerous Days: Making Blade Runner (2007)","genres":"Documentary"}
+{"movieId":169816,"userId":597,"predicted_rating":7.6126404,"title":"Day of the Panther (1988)","genres":"Action"}
+{"movieId":147966,"userId":597,"predicted_rating":7.6126404,"title":"Tarzan's Fight for Life (1958)","genres":"Action|Adventure"}
+{"movieId":196965,"userId":597,"predicted_rating":7.401553,"title":"Fate/Stay Night: Unlimited Blade Works (2010)","genres":"Action|Animation|Fantasy"}
+{"movieId":184129,"userId":597,"predicted_rating":7.1923943,"title":"The Living End (1992)","genres":"Drama|Romance"}
+{"movieId":154878,"userId":597,"predicted_rating":7.0873113,"title":"The Woman Who Powders Herself (1972)","genres":"(no genres listed)"}
+{"movieId":181175,"userId":597,"predicted_rating":7.0470366,"title":"War Requiem (1989)","genres":"Drama|War"}
+{"movieId":196965,"userId":613,"predicted_rating":8.875855,"title":"Fate/Stay Night: Unlimited Blade Works (2010)","genres":"Action|Animation|Fantasy"}
+{"movieId":172223,"userId":613,"predicted_rating":7.917506,"title":"School Of Life (2005)","genres":"Children|Comedy|Drama"}
+{"movieId":169816,"userId":613,"predicted_rating":7.8680687,"title":"Day of the Panther (1988)","genres":"Action"}
+{"movieId":147966,"userId":613,"predicted_rating":7.8680687,"title":"Tarzan's Fight for Life (1958)","genres":"Action|Adventure"}
+{"movieId":148468,"userId":613,"predicted_rating":7.775762,"title":"The Garden of Sinners - Chapter 2: …and nothing heart. (Murder Speculation Part A) (2007)","genres":"Animation"}
+{"movieId":190447,"userId":613,"predicted_rating":7.2237697,"title":"Nodame Cantabile: The Movie I (2009)","genres":"Drama|Romance"}
+{"movieId":153184,"userId":613,"predicted_rating":7.0454535,"title":"Vergeef me","genres":"(no genres listed)"}
+{"movieId":156771,"userId":613,"predicted_rating":6.9858103,"title":"Dangerous Days: Making Blade Runner (2007)","genres":"Documentary"}
+{"movieId":183717,"userId":613,"predicted_rating":6.7303452,"title":"Om-Dar-Ba-Dar (1988)","genres":"(no genres listed)"}
+{"movieId":176699,"userId":613,"predicted_rating":6.495929,"title":"Boys in the Trees (2016)","genres":"Drama"}
+{"movieId":172223,"userId":623,"predicted_rating":10.504288,"title":"School Of Life (2005)","genres":"Children|Comedy|Drama"}
+{"movieId":183717,"userId":623,"predicted_rating":8.948025,"title":"Om-Dar-Ba-Dar (1988)","genres":"(no genres listed)"}
+{"movieId":169816,"userId":623,"predicted_rating":8.1861315,"title":"Day of the Panther (1988)","genres":"Action"}
+{"movieId":147966,"userId":623,"predicted_rating":8.1861315,"title":"Tarzan's Fight for Life (1958)","genres":"Action|Adventure"}
+{"movieId":181175,"userId":623,"predicted_rating":7.295812,"title":"War Requiem (1989)","genres":"Drama|War"}
+{"movieId":178027,"userId":623,"predicted_rating":7.295812,"title":"People That Are Not Me (2016)","genres":"Drama|Romance"}
+{"movieId":176893,"userId":623,"predicted_rating":7.295812,"title":"Custody (2016)","genres":"Drama"}
+{"movieId":176179,"userId":623,"predicted_rating":7.295812,"title":"Big Men (2014)","genres":"Documentary"}
+{"movieId":173959,"userId":623,"predicted_rating":7.295812,"title":"The Dreamed Ones (2016)","genres":"(no genres listed)"}
+{"movieId":156954,"userId":623,"predicted_rating":7.295812,"title":"Don't Let the Angels Fall (1969)","genres":"(no genres listed)"}
+{"movieId":169124,"userId":633,"predicted_rating":10.368626,"title":"Coquille (1999)","genres":"(no genres listed)"}
+{"movieId":131548,"userId":633,"predicted_rating":9.477216,"title":"Hardbodies (1984)","genres":"Comedy"}
+{"movieId":183717,"userId":633,"predicted_rating":9.360124,"title":"Om-Dar-Ba-Dar (1988)","genres":"(no genres listed)"}
+{"movieId":196415,"userId":633,"predicted_rating":9.072546,"title":"Backwater (2013)","genres":"(no genres listed)"}
+{"movieId":169146,"userId":633,"predicted_rating":9.072546,"title":"Life Can Be So Wonderful (2007)","genres":"(no genres listed)"}
+{"movieId":1368,"userId":633,"predicted_rating":8.796381,"title":"Forbidden Christ, The (Cristo proibito, Il) (1950)","genres":"Drama"}
+{"movieId":3828,"userId":633,"predicted_rating":8.675543,"title":"Better Living (1998)","genres":"Comedy"}
+{"movieId":156771,"userId":633,"predicted_rating":8.345523,"title":"Dangerous Days: Making Blade Runner (2007)","genres":"Documentary"}
+{"movieId":172223,"userId":633,"predicted_rating":8.269522,"title":"School Of Life (2005)","genres":"Children|Comedy|Drama"}
+{"movieId":152053,"userId":633,"predicted_rating":8.253297,"title":"Just Before Nightfall (1971)","genres":"Crime|Drama"}
+{"movieId":183717,"userId":642,"predicted_rating":8.985642,"title":"Om-Dar-Ba-Dar (1988)","genres":"(no genres listed)"}
+{"movieId":172223,"userId":642,"predicted_rating":8.83226,"title":"School Of Life (2005)","genres":"Children|Comedy|Drama"}
+{"movieId":196965,"userId":642,"predicted_rating":8.377947,"title":"Fate/Stay Night: Unlimited Blade Works (2010)","genres":"Action|Animation|Fantasy"}
+{"movieId":148468,"userId":642,"predicted_rating":7.217626,"title":"The Garden of Sinners - Chapter 2: …and nothing heart. (Murder Speculation Part A) (2007)","genres":"Animation"}
+{"movieId":156771,"userId":642,"predicted_rating":6.794001,"title":"Dangerous Days: Making Blade Runner (2007)","genres":"Documentary"}
+{"movieId":131548,"userId":642,"predicted_rating":6.5098996,"title":"Hardbodies (1984)","genres":"Comedy"}
+{"movieId":176699,"userId":642,"predicted_rating":6.3833847,"title":"Boys in the Trees (2016)","genres":"Drama"}
+{"movieId":193918,"userId":642,"predicted_rating":6.3168025,"title":"Smoke 'Em If You Got 'Em (1988)","genres":"Comedy"}
+{"movieId":139036,"userId":642,"predicted_rating":6.3168025,"title":"World Gone Wild (1988)","genres":"Action|Sci-Fi"}
+{"movieId":169816,"userId":642,"predicted_rating":6.250801,"title":"Day of the Panther (1988)","genres":"Action"}
+{"movieId":172223,"userId":673,"predicted_rating":8.25714,"title":"School Of Life (2005)","genres":"Children|Comedy|Drama"}
+{"movieId":183717,"userId":673,"predicted_rating":8.050392,"title":"Om-Dar-Ba-Dar (1988)","genres":"(no genres listed)"}
+{"movieId":169124,"userId":673,"predicted_rating":7.172341,"title":"Coquille (1999)","genres":"(no genres listed)"}
+{"movieId":131548,"userId":673,"predicted_rating":7.0775976,"title":"Hardbodies (1984)","genres":"Comedy"}
+{"movieId":156771,"userId":673,"predicted_rating":6.7906046,"title":"Dangerous Days: Making Blade Runner (2007)","genres":"Documentary"}
+{"movieId":158270,"userId":673,"predicted_rating":6.634214,"title":"Monty Python's Fliegender Zirkus (1971)","genres":"Comedy"}
+{"movieId":153184,"userId":673,"predicted_rating":6.590468,"title":"Vergeef me","genres":"(no genres listed)"}
+{"movieId":173345,"userId":673,"predicted_rating":6.5407286,"title":"Cat City (1986)","genres":"Animation|Children"}
+{"movieId":196965,"userId":673,"predicted_rating":6.516228,"title":"Fate/Stay Night: Unlimited Blade Works (2010)","genres":"Action|Animation|Fantasy"}
+{"movieId":1368,"userId":673,"predicted_rating":6.3129497,"title":"Forbidden Christ, The (Cristo proibito, Il) (1950)","genres":"Drama"}
+{"movieId":172223,"userId":683,"predicted_rating":9.545895,"title":"School Of Life (2005)","genres":"Children|Comedy|Drama"}
+{"movieId":183717,"userId":683,"predicted_rating":8.920626,"title":"Om-Dar-Ba-Dar (1988)","genres":"(no genres listed)"}
+{"movieId":131548,"userId":683,"predicted_rating":8.119367,"title":"Hardbodies (1984)","genres":"Comedy"}
+{"movieId":158270,"userId":683,"predicted_rating":7.892738,"title":"Monty Python's Fliegender Zirkus (1971)","genres":"Comedy"}
+{"movieId":173345,"userId":683,"predicted_rating":7.631014,"title":"Cat City (1986)","genres":"Animation|Children"}
+{"movieId":120214,"userId":683,"predicted_rating":7.2093253,"title":"Flirtation Walk (1934)","genres":"Musical|Romance"}
+{"movieId":193843,"userId":683,"predicted_rating":6.8462987,"title":"Raazi (2018)","genres":"Action|Drama|Thriller"}
+{"movieId":185663,"userId":683,"predicted_rating":6.8306623,"title":"WWE: OMG! The Top 50 Incidents in WWE History (2011)","genres":"(no genres listed)"}
+{"movieId":137904,"userId":683,"predicted_rating":6.827363,"title":"I, Claudius (1976)","genres":"Drama"}
+{"movieId":181175,"userId":683,"predicted_rating":6.664294,"title":"War Requiem (1989)","genres":"Drama|War"}
+{"movieId":172223,"userId":737,"predicted_rating":11.393024,"title":"School Of Life (2005)","genres":"Children|Comedy|Drama"}
+{"movieId":196965,"userId":737,"predicted_rating":10.942928,"title":"Fate/Stay Night: Unlimited Blade Works (2010)","genres":"Action|Animation|Fantasy"}
+{"movieId":183717,"userId":737,"predicted_rating":10.252111,"title":"Om-Dar-Ba-Dar (1988)","genres":"(no genres listed)"}
+{"movieId":148468,"userId":737,"predicted_rating":9.497621,"title":"The Garden of Sinners - Chapter 2: …and nothing heart. (Murder Speculation Part A) (2007)","genres":"Animation"}
+{"movieId":169816,"userId":737,"predicted_rating":9.286049,"title":"Day of the Panther (1988)","genres":"Action"}
+{"movieId":147966,"userId":737,"predicted_rating":9.286049,"title":"Tarzan's Fight for Life (1958)","genres":"Action|Adventure"}
+{"movieId":156771,"userId":737,"predicted_rating":9.090783,"title":"Dangerous Days: Making Blade Runner (2007)","genres":"Documentary"}
+{"movieId":190447,"userId":737,"predicted_rating":8.253624,"title":"Nodame Cantabile: The Movie I (2009)","genres":"Drama|Romance"}
+{"movieId":153184,"userId":737,"predicted_rating":8.066459,"title":"Vergeef me","genres":"(no genres listed)"}
+{"movieId":193918,"userId":737,"predicted_rating":7.886574,"title":"Smoke 'Em If You Got 'Em (1988)","genres":"Comedy"}
+{"movieId":196965,"userId":744,"predicted_rating":9.702514,"title":"Fate/Stay Night: Unlimited Blade Works (2010)","genres":"Action|Animation|Fantasy"}
+{"movieId":148468,"userId":744,"predicted_rating":8.778582,"title":"The Garden of Sinners - Chapter 2: …and nothing heart. (Murder Speculation Part A) (2007)","genres":"Animation"}
+{"movieId":183717,"userId":744,"predicted_rating":8.67387,"title":"Om-Dar-Ba-Dar (1988)","genres":"(no genres listed)"}
+{"movieId":172223,"userId":744,"predicted_rating":8.22525,"title":"School Of Life (2005)","genres":"Children|Comedy|Drama"}
+{"movieId":190447,"userId":744,"predicted_rating":7.124399,"title":"Nodame Cantabile: The Movie I (2009)","genres":"Drama|Romance"}
+{"movieId":156771,"userId":744,"predicted_rating":7.0398517,"title":"Dangerous Days: Making Blade Runner (2007)","genres":"Documentary"}
+{"movieId":190431,"userId":744,"predicted_rating":6.2338495,"title":"The Mole Song: Hong Kong Capriccio (2016)","genres":"Action|Comedy"}
+{"movieId":175831,"userId":744,"predicted_rating":6.1212068,"title":"Lou (2017)","genres":"Animation"}
+{"movieId":128830,"userId":744,"predicted_rating":6.0091095,"title":"Plastic Bag (2009)","genres":"Drama"}
+{"movieId":123198,"userId":744,"predicted_rating":5.7412205,"title":"Head Office (1985)","genres":"Comedy"}
